@@ -3,18 +3,15 @@ public class Animal {
 	
 	public String AnimalName = "I am an animal";
 	
-	void Breathe()
-	{
+	void Breathe() {
 		System.out.println( "I breathe.\n" );
 	}
 
-	void Move()
-	{
+	void Move() { 
 		System.out.println( "I fly.\n" );
 	}
 
-	boolean CanEat(String tWhat)
-	{
+	boolean CanEat(String tWhat) {
 		if( tWhat.equals( "garbage") )
 			return true;
 		else

@@ -7,8 +7,7 @@ public class Salamander extends Reptile
 	Salamander() { 
 		
 	}
-	public String GetName()
-	{
+	public String GetName() {
 		return AnimalName;
 	}
 }

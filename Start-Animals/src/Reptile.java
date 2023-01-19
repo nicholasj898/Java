@@ -2,8 +2,7 @@
 public class Reptile extends Animal {
 
 		@Override
-		public String GetName()
-		{
+		public String GetName() {
 			return "Reptile";
 		}
 }

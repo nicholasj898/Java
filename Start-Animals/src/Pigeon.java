@@ -1,12 +1,10 @@
 
 public class Pigeon extends Bird
 
-	String GetName()
-	{
+	String GetName() {
 		return "Pigeon";
 	}
 
-	Pigeon()
-	{
+	Pigeon() {
 	}
 }

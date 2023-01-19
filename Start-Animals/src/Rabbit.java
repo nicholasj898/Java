@@ -1,12 +1,10 @@
 
 public class Rabbit extends Mammal
 {
-	public String GetName()
-	{
+	public String GetName() {
 		return "Rabbit";
 	}
 
-	Rabbit()
-	{
+	Rabbit() {
 	}
 }

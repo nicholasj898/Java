@@ -2,8 +2,7 @@
 public class Gecko extends Reptile
 {
 
-	public String GetName()
-	{
+	public String GetName() {
 		return "Gecko";
 	}
 

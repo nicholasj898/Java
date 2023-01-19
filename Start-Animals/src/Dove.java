@@ -2,12 +2,10 @@
 public class Dove extends Bird
 {
 
-	public String GetName()
-	{
+	public String GetName() {
 		return "Dove";
 	}
 
-	Dove()
-	{
+	Dove() {
 	}
 }
